@@ -1,0 +1,134 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#my-blog *[data-v-b530aeca]{
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+#my-blog[data-v-b530aeca]{
+  margin: 20px auto;
+  max-width: 600px;
+  padding: 20px;
+}
+label[data-v-b530aeca]{
+  display: block;
+  margin: 20px 0 10px;
+}
+input[type='text'][data-v-b530aeca],textarea[data-v-b530aeca],select[data-v-b530aeca]{
+  display: block;
+  width: 100%;
+  padding: 8px;
+}
+textarea[data-v-b530aeca]{
+  height: 200px;
+}
+#checkboxes label[data-v-b530aeca]{
+  display: inline-block;
+  margin-top: 0;
+  margin-right: 5px;
+}
+#checkboxes input[data-v-b530aeca]{
+  display: inline-block;
+  margin-right: 10px;
+}
+button[data-v-b530aeca]{
+  display:block;
+  margin: 20px 0;
+  background: crimson;
+  color: #fff;
+  border: 0;
+  padding: 14px;
+  border-radius: 4px;
+  font-size: 20px;
+  cursor: pointer;
+}
+#preview[data-v-b530aeca]{
+  padding: 10px 20px;
+  border: 1px dotted #ccc;
+  margin: 30px 0;
+}
+h3[data-v-b530aeca]{
+  margin: 10px;
+}
+
+#show-blogs[data-v-3f5cf7c6]{
+  max-width: 800px;
+  margin: 0 auto;
+}
+.single-blog[data-v-3f5cf7c6]{
+  padding: 20px;
+  margin: 20px 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background: #eee;
+  border:1px dotted #aaa;
+}
+#show-blogs a[data-v-3f5cf7c6]{
+  color:#444;
+  text-decoration: none;
+}
+input[type="text"][data-v-3f5cf7c6]{
+  padding: 8px;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+ul{
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+}
+li{
+  display: inline-block;
+  margin: 0 10px;
+}
+a{
+  color: #fff;
+  text-decoration: none;
+  padding: 12px;
+  border-radius: 5px;
+}
+nav{
+  background: crimson;
+  padding: 30px 0;
+  margin-bottom: 40px;
+}
+.router-link-active{
+  background: rgba(255,255,255,0.8);
+  color:#444;
+}
+
+#single-blog{
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #eee;
+  border:1px dotted #aaa;
+}
+
+/*# sourceMappingURL=app.f6edbab053886c0654fac7cd46a8480b.css.map*/
